@@ -1,11 +1,7 @@
-# A sample Gemfile
-source "http://ruby.taobao.org"
+# frozen_string_literal: true
 
-# https://help.github.com/articles/using-jekyll-with-pages
+source "https://rubygems.org"
+gemspec
 
-gem 'jekyll', '~> 2.2.0'
-gem 'liquid',     '~> 2.4.1'
-gem 'redcarpet',  '~> 2.1.1'
-gem 'maruku',     '~> 0.6.0'
-gem 'rdiscount',  '~> 1.6.8'
-gem 'RedCloth',   '~> 4.2.9'
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
