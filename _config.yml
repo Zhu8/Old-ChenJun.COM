@@ -7,9 +7,9 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 paginate:         5
 paginate_path: "/page/:num"
 JB :
-  ASSET_PATH : https://zhu8.github.io/Old-ChenJun.COM/assets
-  IMAGE_PATH : https://zhu8.github.io/Old-ChenJun.COM/images
-  STATIC_PATH : https://zhu8.github.io/Old-ChenJun.COM/images
+  ASSET_PATH : https://zhu8.net/assets
+  IMAGE_PATH : https://zhu8.net/images/posts
+  STATIC_PATH : https://zhu8.net/images/posts
 
 # auto: true # deprecated
 
