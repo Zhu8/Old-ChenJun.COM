@@ -43,3 +43,5 @@ author:
   weibo : Zhu8
  # Custom vars
 version:          2015.05.10
+
+theme: jekyll-theme-minimal
