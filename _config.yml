@@ -16,6 +16,7 @@ JB :
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
+BASE_PATH: /oldcom/
 url: https://zhu8.github.io
 baseurl: /oldcom/
 title: 陈俊的网：浮生志
