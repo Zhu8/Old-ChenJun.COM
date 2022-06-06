@@ -18,7 +18,7 @@ paginate_path: "/page/:num"
 JB :
   ASSET_PATH : https://zhu8.github.io/Old-ChenJun.COM/assets
   IMAGE_PATH : https://zhu8.github.io/Old-ChenJun.COM/images
-  STATIC_PATH : https://zhu8.github.io/Old-ChenJun.COM/static
+  STATIC_PATH : https://zhu8.github.io/Old-ChenJun.COM/images
 
 # auto: true # deprecated
 
@@ -26,7 +26,9 @@ JB :
 # so be sure to set them if your theme uses them.
 #
 BASE_PATH: 
-url: https://zhu8.github.io/Old-ChenJun.COM/
+domain: zhu8.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://zhu8.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /Old-ChenJun.COM/      # place folder name if the site is served in a subfolder
 title: 陈俊的网：浮生志
 tagline: On The Way to Philistinism...
 about: 陈俊［ChenJun(Zhu8)］的个人网站，江苏金坛人士，83年生人，电子产品、代码、海淘、智能设备、网页设计自虐狂，曼联死忠粉，王小波门下走狗。
