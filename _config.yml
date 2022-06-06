@@ -26,7 +26,6 @@ JB :
 # so be sure to set them if your theme uses them.
 #
 BASE_PATH: 
-domain: zhu8.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://zhu8.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /Old-ChenJun.COM/      # place folder name if the site is served in a subfolder
 title: 陈俊的网：浮生志
