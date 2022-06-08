@@ -10,8 +10,8 @@ JB :
   ASSET_PATH : /assets
   IMAGE_PATH : https://cloud.zhu8.net/images
   STATIC_PATH : https://cloud.zhu8.net/images
-Requiring: tzinfo
-Timezone: Asia/Shanghai +08:00
+
+Timezone: Asia/Shanghai
 # auto: true # deprecated
 
 # Themes are encouraged to use these universal variables
