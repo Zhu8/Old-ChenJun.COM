@@ -15,10 +15,10 @@ description: ChenJun.COM的Weblog页面，更多请参见/archive.html页面。
   <div class="content">
   {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
+        <p> <a href="{{ post.url }}#more" class="more-link"><span class="readmore">阅读全文 &raquo;  &raquo;  &raquo; </span></a></p>
 {% else %}
     {{ post.content | truncatehtml: 300 }}
 {% endif %}
-    <p> <a href="{{ post.url }}#more" class="more-link"><span class="readmore">阅读全文 &raquo;  &raquo;  &raquo; </span></a></p>
     </div>
 {% endfor %}
 <div class="homepage-archive"><a href="/archive.html" class="btn btn-default btn-sm">More @ THE <strong>Archive</strong> Page.</a></div>
