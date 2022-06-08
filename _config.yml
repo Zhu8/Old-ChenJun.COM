@@ -16,7 +16,7 @@ JB :
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-BASE_PATH: /
+BASE_PATH: 
 url: https://ichenjun.github.io
 title: 陈俊的网：浮生志
 tagline: On The Way to Philistinism...
