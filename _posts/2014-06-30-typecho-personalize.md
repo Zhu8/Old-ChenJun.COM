@@ -14,7 +14,7 @@ tags:
 
 网站以前用[MT](http://www.movabletype.com)，最喜欢的当然是静态化，虽然用的是3.X，但是能达到我的要求，就一直没有换。但是后来不知道为什么，反垃圾评论功能失效了……作为一个强迫症兼偏执狂，当然受不了这个，但是自己又没劲再去折腾了。于是，换到了[Typecho](http://www.typecho.org)，因为实在是不想用大众脸的[WordPress](http://wordpress.org)！
 
-诚如我[第一篇日志](http://chenjun.com/2014/06/start.html)所言，微博微信都是危险的，他让我们渐渐失去了长时间去思考的能力，适应了快餐文化，适应了随手点个赞。还是回到公开在互联网的个人网志，保存放心、安全，所有东西都归我管。当然，如果不是[Blogger](http://www.blogger.com)被**土啬女干**了，我是愿意去那里安家的。
+诚如我[第一篇日志](/blog/2014/06/start.html)所言，微博微信都是危险的，他让我们渐渐失去了长时间去思考的能力，适应了快餐文化，适应了随手点个赞。还是回到公开在互联网的个人网志，保存放心、安全，所有东西都归我管。当然，如果不是[Blogger](http://www.blogger.com)被**土啬女干**了，我是愿意去那里安家的。
 
 好久没有废话了，那废话就说到这里吧，因为Typecho的官方文档还有很多不完善的地方，自己找以及在网上琢磨，为了方便也许只有一两个人能到的这里的友人们，下面就放一些常用的Typecho的代码吧。
 
@@ -59,7 +59,7 @@ tags:
     endwhile;   
     $output .= '</ul></li></ul></div>';   
     echo $output;   
-?> 
+?>
     </div><!-- end #main -->
 
     <?php $this->need('sidebar.php'); ?>
@@ -109,9 +109,9 @@ tags:
 编辑Style.css文件，增加如下代码：
 
 ```css
-.post-content p{ 
-text-indent: 2em; /*em是相对单位，2em即现在一个字大小的两倍*/ 
-} 
+.post-content p{
+text-indent: 2em; /*em是相对单位，2em即现在一个字大小的两倍*/
+}
 ```
 
 后续待补充，部分参考：[Typecho官方文档](http://docs.typecho.org)以及[Typecho.me](http://typecho.me)，一并致谢！
