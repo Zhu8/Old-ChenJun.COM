@@ -11,7 +11,7 @@ JB :
   IMAGE_PATH : https://cloud.zhu8.net/images
   STATIC_PATH : https://cloud.zhu8.net/images
 
-Timezone: Asia/Shanghai
+
 # auto: true # deprecated
 
 # Themes are encouraged to use these universal variables
@@ -35,3 +35,4 @@ author:
 version:          2015.05.10
 
 theme: jekyll-theme-minimal
+timezone: Asia/Shanghai
