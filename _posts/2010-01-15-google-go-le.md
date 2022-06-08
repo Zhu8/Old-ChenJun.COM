@@ -12,7 +12,7 @@ tags:
 ---
 Google[要走了](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html "Official Google Blog: A new approach to China")？
 
-大家都在这么说，各处新闻长篇累牍，也不需要我等草民复述。我与[Keso](http://blog.donews.com/keso/archive/2010/01/13/1580275.aspx "三言二拍：Google退出中国 - 对牛乱弹琴 | Playin")（妄自尊大了）的想法如出一辙，我的这么多服务怎么办？我的 ~~Gmail、Google Reader、Analytics、AdSense、Blogger、Talk、Chrome、PinYin、PicasaWeb~~ 以及还没有盼到的 ~~Nexus One~~ ，它们怎么办？
+大家都在这么说，各处新闻长篇累牍，也不需要我等草民复述。我与[Keso](http://blog.donews.com/keso/archive/2010/01/13/1580275.aspx "三言二拍：Google退出中国 - 对牛乱弹琴")（妄自尊大了）的想法如出一辙，我的这么多服务怎么办？我的 ~~Gmail、Google Reader、Analytics、AdSense、Blogger、Talk、Chrome、PinYin、PicasaWeb~~ 以及还没有盼到的 ~~Nexus One~~ ，它们怎么办？
 
 也许有一天，我的所有这些都无法访问，我得把我的身体练得愈发强壮，好爬过那耸入云霄的文明用语；也许有一天，我会发现我惟一的祈祷就是能亲手砸烂那伟岸无比的文明用语；也许有一天，我得不停的说着：“文明用语你文明用语的文明用语。”才能倾泄我对文明用语的文明用语。
 
@@ -22,12 +22,12 @@ Google[要走了](http://googleblog.blogspot.com/2010/01/new-approach-to-china.h
 
 <!--more-->
 
-  ![chinainventions10-hp]({{ site.JB.STATIC_PATH }}/images/GoogleGoLe_14149/chinainventions10hp.gif "chinainventions10-hp")
+  ![chinainventions10-hp]({{ site.JB.STATIC_PATH }}/GoogleGoLe_14149/chinainventions10hp.gif "chinainventions10-hp")
 
-  ![my-google-products]({{ site.JB.STATIC_PATH }}/images/GoogleGoLe_14149/mygoogleproducts.png "my-google-products")
+  ![my-google-products]({{ site.JB.STATIC_PATH }}/GoogleGoLe_14149/mygoogleproducts.png "my-google-products")
 
 **延伸阅读：**
 
-*   **[壮士断腕，义无再辱—阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/01/google_to_quit_china.html "壮士断腕，义无再辱 - 阮一峰的网络日志")**
-*   **[宁为玉碎，不为瓦全-为Google喝彩 | 可能吧](http://www.kenengba.com/post/2248.html "宁为玉碎，不为瓦全-为Google喝彩 | 可能吧")**
+*   **[壮士断腕，义无再辱 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/01/google_to_quit_china.html "壮士断腕，义无再辱 - 阮一峰的网络日志")**
+*   **[宁为玉碎，不为瓦全-为Google喝彩 - 可能吧](http://www.kenengba.com/post/2248.html "宁为玉碎，不为瓦全-为Google喝彩 - 可能吧")**
 *   **[demo@virushuo: Google百度和谷歌的那些事](http://blog.devep.net/virushuo/2010/01/14/blog56google_blogtinyfool_1_go.html "demo@virushuo: Google百度和谷歌的那些事")**
