@@ -3,9 +3,9 @@ title: "使用BitBucket和FTPloy私有Jekyll源码"
 description: "网站使用Jekyll建成之后，放置在Github Pages的源码属于公开的访问，处于一些个人安全考虑，最重要的是放置在自己的FTP空间会相对安全一些，所以，我采用了支持私有源码的BitBucket作为Git仓库，并使用FTPloy作为Deploy方案，实现了自动发布到个人FTP的目的。"
 layout: post
 date: 2014-07-27 13:23:33 +0800
-categories: 
+categories:
   - 立占 | site
-tags: 
+tags:
   - Jekyll
   - Github
   - BitBucket
@@ -19,6 +19,8 @@ tags:
 
 Github私有源码的话，是需要美刀的，作为小站长，一个虚拟空间的钱还是要省的，所以，去注册[BitBucket][6]吧：）注册完成之后，创建一个仓库，如 ***下图*** 所示，注意可选 **私人仓库** 选项。当然，也可以按右上角的**import**导入你的Github仓库。
 [![BitBucket新建仓库][7]]({{ site.JB.STATIC_PATH }}/Bitbucket.png)
+
+<!--more-->
 
 ### 注册并使用FTPloy
 
