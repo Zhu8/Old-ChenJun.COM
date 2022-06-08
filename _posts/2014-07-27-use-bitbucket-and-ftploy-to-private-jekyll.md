@@ -3,7 +3,6 @@ title: "使用BitBucket和FTPloy私有Jekyll源码"
 description: "网站使用Jekyll建成之后，放置在Github Pages的源码属于公开的访问，处于一些个人安全考虑，最重要的是放置在自己的FTP空间会相对安全一些，所以，我采用了支持私有源码的BitBucket作为Git仓库，并使用FTPloy作为Deploy方案，实现了自动发布到个人FTP的目的。"
 layout: post
 date: 2014-07-27 13:23:33 +0800
-thumbnail: {{ site.JB.STATIC_PATH }}/FTPloy.png
 categories: 
   - 立占 | site
 tags: 
