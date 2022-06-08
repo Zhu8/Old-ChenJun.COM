@@ -3,7 +3,7 @@ title: "重生@Jekyll+GitHub Pages"
 description: "本博开篇，按例介绍一下搭建过程——为何用Github&Jekyll？我想这不需要多说了吧？版本记录+Markdown+本地编辑。嗯！爽！"
 layout: post
 date: 2014-07-04 23:23:44 +0800
-thumbnail: {{ site.JB.STATIC_PATH }}/vector_jerry_8ball_by_svezate-d6lzyyh.png
+thumbnail: https://cloud.zhu8.net/images/vector_jerry_8ball_by_svezate-d6lzyyh.png
 categories:
   - 立占 | site
 tags:
